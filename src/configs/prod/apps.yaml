@@ -1,9 +1,12 @@
+
 # Notice section for employees to go paperless and verify mailing addresses
 notice:
   label: 'City Employees - Go Paperless' #Label for this Notice
   pretext: ''
   text: 'Click the ESS tile to confirm that your mailing address is correct & to go paperless for your W2, ACA and paystubs. Tax documents will be available in January.'
 #Applications section - Lists available apps grouped by categories
+
+
 categories:
   - title: Applications #Main category title
     show_request_access_link: false #Hides request access link for this category
