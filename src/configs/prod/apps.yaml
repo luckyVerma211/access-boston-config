@@ -232,6 +232,11 @@ categories:
         icon: https://assets.boston.gov/icons/accessboston/BidBot.svg
         groups:
           - SG_AB_BIDBOT
+      - title: Fire Engineering Training 
+        url: https://sso.boston.gov/idp/startSSO.ping?PartnerSpId=https%3A%2F%2Fbfd.fireengineeringtraining.com%2Flms%2Findex.php
+        icon: https://assets.boston.gov/icons/accessboston/fire_truck.svg
+        agencies:
+          - BFD
 
   - title: Account Settings
     apps:
