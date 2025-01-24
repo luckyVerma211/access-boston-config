@@ -223,7 +223,7 @@ categories:
         groups:
           - SG_AB_GENETEC
       - title: ZenCity
-        url: https://login.app.zencity.io/login/callback?connection=Boston-MA-PingFederate
+        url: https://login.app.zencity.io/authorize?client_id=Yz9fk9UMcDonRIhVt9IC9ILwjv5HhuMi&response_type=code&connection=Boston-MA-pf-saml&prompt=login&scope=openid+profile&redirect_uri=https%3A%2F%2Fapp.zencity.io
         icon: https://assets.boston.gov/icons/accessboston/ZenCity.svg
         groups:
           - SG_AB_ZENCITY
