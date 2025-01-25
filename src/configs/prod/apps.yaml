@@ -233,6 +233,8 @@ categories:
           - SG_AB_GENETEC
       - title: ZenCity
         url: https://login.app.zencity.io/login/callback?connection=Boston-MA-PingFederate  #Link to login ZenCity App
+        url: https://login.app.zencity.io/authorize?client_id=Yz9fk9UMcDonRIhVt9IC9ILwjv5HhuMi&response_type=code&connection=Boston-MA-pf-saml&prompt=login&scope=openid+profile&redirect_uri=https%3A%2F%2Fapp.zencity.io
+
         icon: https://assets.boston.gov/icons/accessboston/ZenCity.svg
         groups:
           - SG_AB_ZENCITY
@@ -241,6 +243,11 @@ categories:
         icon: https://assets.boston.gov/icons/accessboston/BidBot.svg
         groups:
           - SG_AB_BIDBOT
+      - title: Fire Engineering Training 
+        url: https://sso.boston.gov/idp/startSSO.ping?PartnerSpId=https%3A%2F%2Fbfd.fireengineeringtraining.com%2Flms%2Findex.php
+        icon: https://assets.boston.gov/icons/accessboston/fire_truck.svg
+        agencies:
+          - BFD
 
   - title: Account Settings #Account Settings Category title
     apps:
